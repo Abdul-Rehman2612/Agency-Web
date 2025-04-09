@@ -118,5 +118,5 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/xcelle-digital-services.git
+   git clone https://github.com/aabr2612/Xcell-Digital-Services
 Open the `index.html` file in your browser to view the website locally.
